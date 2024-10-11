@@ -36,7 +36,7 @@ Inicialmente, se generó un dataset simulado que refleja de manera coherente las
 ## Instalación
 
 ```bash
-git clone https://github.com/tu_usuario/regresion_logistica_perfume.git
+git clone https://github.com/tu_usuario/SVM-con-kernel-gaussiano-machine-learning.git
 ```
 ### Uso 
 ### Creación del Dataset 
@@ -71,8 +71,7 @@ Reporte de Clasificación
            1       0.67      0.76      0.71       184
 
     accuracy                           0.70       375
-   macro avg       0.70      0.70      0.70       375
-weighted avg       0.70      0.70      0.70       375
+
 
 
 El modelo es más eficaz para identificar a las personas que realmente comprarán el coche (recall del 76%) 
